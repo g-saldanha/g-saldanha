@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github-profile-trophy.vercel.app/?username=g-saldanha&theme=onedark">
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g-saldanha)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsaldanha)](https://github.com/anuraghazra/github-readme-stats)
 
