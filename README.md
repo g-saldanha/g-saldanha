@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gsaldanha">
 </p>
 <p align="center">
    <picture>
@@ -29,7 +30,3 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=g-saldanha&theme=onedark">
 </p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gsaldanha">
-</p>
-
