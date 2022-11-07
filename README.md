@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ![Saldanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-saldanha&show_icons=true&theme=dracula){ style="display: block; margin: 0 auto" } 
