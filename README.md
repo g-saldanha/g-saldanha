@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel '@g-saldanha' Saldanha
+![](header.png)
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Cloud DevOps
 - 💞️ I’m looking to collaborate on Typescript and Data Science Projects
