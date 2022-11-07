@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact">
 </p>
 <p align="center">
-   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact](https://github-readme-stats.vercel.app/api?username=g-saldanha&show_icons=true&theme=dracula)">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact">
 </p>
