@@ -25,3 +25,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=g-saldanha&show_icons=true" />
 </picture>
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=g-saldanha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
