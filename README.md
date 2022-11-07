@@ -24,10 +24,8 @@ You can click the Preview link to take a look at your changes.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=g-saldanha&show_icons=true" />
 </picture>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=g-saldanha&theme=dracula">
 </p>
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=g-saldanha&theme=onedark">
-</p>
-<p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=g-saldanha&theme=dracula">
 </p>
