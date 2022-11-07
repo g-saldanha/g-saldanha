@@ -8,7 +8,10 @@
 g-saldanha/g-saldanha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact)](https://github.com/anuraghazra/github-readme-stats){ style="display: block; margin: 0 auto" } 
+
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-saldanha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ![Saldanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-saldanha&show_icons=true&theme=dracula){ style="display: block; margin: 0 auto" } 
 
