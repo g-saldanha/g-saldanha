@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Cloud DevOps
 - 💞️ I’m looking to collaborate on Typescript and Data Science Projects
-- 📫 How to reach me gabriel@gbldev.com
+- 📫 How to reach me saldanha@gbl.dev.br
 
 <!---
 g-saldanha/g-saldanha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
